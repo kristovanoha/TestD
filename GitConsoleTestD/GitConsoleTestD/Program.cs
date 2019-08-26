@@ -13,6 +13,13 @@ namespace GitConsoleTestD
 
 
             //treti dsfsdf
+
+            //tohle chci dta zpet
+
+            //druha zmena druha vetev 
+
+
+            //hlavni 
         }
     }
 }
